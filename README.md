@@ -73,7 +73,7 @@ A minimum of 20 ADS-B position reports per flight is required in the Trino HAVIN
 ---
 Citation
 If you use this code or data pipeline, please cite:
-> Tarradellas, J. (2025). Wind-corrected cruise-speed variation suggests near-term aviation emissions-reduction potential. *Nature Energy* [under review].
+. Wind-corrected cruise-speed variation suggests near-term aviation emissions-reduction potential.  [under review].
 ---
 License
 MIT License — see LICENSE file.
