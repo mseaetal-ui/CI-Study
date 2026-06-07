@@ -1,6 +1,6 @@
 Wind-Corrected Cruise-Speed Variation Suggests Near-Term Aviation Emissions-Reduction Potential
-Author: Joan Tarradellas, EADA Business School  
-Target journal: Nature Energy / Nature Climate Change  
+Author:  
+Target journal: 
 Status: Pre-submission revision
 ---
 Overview
